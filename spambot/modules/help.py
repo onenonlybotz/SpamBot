@@ -24,7 +24,7 @@ def get_uptime(milliseconds: int) -> str:
         return uptime_ret
 
 DEFAULTUSER = str(OWNER_NAME)
-help_img = "https://telegra.ph/file/6e92103071aa47ee7023e.mp4"
+help_img = "https://graph.org/file/668f21accea5082ecf850.jpg"
 
 dev_caption = """
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -35,7 +35,7 @@ dev_caption = """
 **/usage:** Check usage of your heroku app.
 **/restart:** Restarts the bot.(Too fast!! **Supersonic**)
 
-[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @Gladiators_Projects
+[©️](https://graph.org/file/668f21accea5082ecf850.jpg) @saikostar_xd
 """
 spam_caption = """
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -53,15 +53,15 @@ Syntax: /packspam (replying to any sticker)
 **/hang:** Spams hanging message for given counter!!
 Syntax: /hang <counter>
 
-[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @Gladiators_Projects
+[©️](https://graph.org/file/668f21accea5082ecf850.jpg) @saikostar_xd
 """
-start_img = "https://telegra.ph/file/1312f063f0395fc933edd.mp4"
+start_img = "https://graph.org/file/668f21accea5082ecf850.jpg"
 
 help_caption = """
 **Hᴇʏ ᴍᴀsᴛᴇʀ,
 ʏᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇss ᴛʜᴇ ᴡʜᴏʟᴇ ʜᴇʟᴘ ᴍᴇɴᴜ ʙʏ ᴜsɪɴɢ ᴛʜᴇ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴs!**
 
-[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @Gladiators_Projects
+[©️](https://graph.org/file/668f21accea5082ecf850.jpg) @saikostar_xd
 """
 start_caption = f"""
 **Nᴏᴡ ᴍᴇ ᴛᴏ ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍʏsᴇʟғ.
@@ -72,12 +72,12 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 **█▓▒­░⡷⠂ᗰᗩՏTᗴᖇ⠂⢾░▒▓█**
 **『 [{DEFAULTUSER}](tg://user?id={OWNER_ID}) 』**
 
-[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @Gladiators_Projects
+[©️](https://graph.org/file/668f21accea5082ecf850.jpg) @saikostar_xd
 """
 close_caption = """
 **Hᴇʟᴘ ᴍᴇɴᴜ ʜᴀs ʙᴇᴇɴ ᴄʟᴏsᴇᴅ!!**
 
-©️ @Gladiators_Projects
+©️ @saikostar_xd
 """
 helpbuttons = [
     [
@@ -100,11 +100,11 @@ help_buttons = [
 ]
 startbuttons = [
     [
-        Button.url("Repo", url="https://github.com/Gladiators-Projects/SpamBot"),
-        Button.url("Support", url=f"https://t.me/ProjectsChat"),
+        Button.url("Repo", url="https://t.me/saikostar_xd"),
+        Button.url("Support", url=f"https://t.me/TH3ONLYSUPPORT"),
     ],
     [
-        Button.url("Github Organisation", url="https://github.com/Gladiators-Projects")
+        Button.url("Updates", url="https://t.me/TH3ONLYCHANNEL")
     ]
 ]
   
